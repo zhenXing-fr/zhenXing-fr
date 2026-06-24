@@ -4,17 +4,29 @@
 
 ---
 
-I'm a data architect, engineer and team lead who believes engineers are a kind of artist.
+I'm a data architect， engineer and team lead who believes engineers are a kind of artist.
 
 Every system I build is a point of view. Every repo here is a real problem I actually had — a garden I need to water, a job I interviewed for, a company where I had to reinvent how data flows at scale. I learn by doing, I prepare by building, and I document what I discover along the way.
 
-My stack: **Python · Spark · dbt · Snowflake · Databricks · Airflow · Kafka · AI agents**
+I've also learned that the best ideas don't come from a single role. I've been an engineer, an architect, a team lead — and now sometimes a product strategist, a UX thinker, a Figma beginner at midnight. I build wherever the problem takes me.
+
+My stack: **Python · spark · dbt · Snowflake · Databricks · Airflow · Kafka · AI agents · iOS (PM)**
 
 🌐 [LinkedIn](https://linkedin.com/in/zhen-xing) · 📍 Paris
 
 ---
 
-## 🌿 Featured projects
+## 📦 Shipped
+
+**Products I've taken from idea to users.**
+
+📱 [**BastionChat**](https://bastionai.github.io/products/bastion-chat/) — A privacy-first AI assistant that runs entirely on your iPhone. No cloud, no subscription, no data leaving your device. Local LLMs with tool calling, RAG, agentic workflows, voice mode, and MCP integration — on a phone in your pocket.
+
+I joined this project as product lead: defined the strategy, designed the user journey, learned Figma to collaborate properly with the designer, and helped shape what "local AI done right" means for people who care about privacy but don't want to sacrifice intelligence. [→ App Store](https://apps.apple.com/us/app/bastionchat/id6747981691)
+
+---
+
+## 🌿 Personal projects
 
 **The ones that tell a story.**
 
