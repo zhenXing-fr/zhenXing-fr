@@ -8,7 +8,7 @@ I'm a data architect, engineer and team lead who believes engineers are a kind o
 
 Every system I build is a point of view. Every repo here is a real problem I actually had — a garden I need to water, a job I interviewed for, a company where I had to reinvent how data flows at scale. I learn by doing, I prepare by building, and I document what I discover along the way.
 
-My stack: **Python · dbt · Snowflake · Airflow · Kafka · Avro · AI agents**
+My stack: **Python · Spark · dbt · Snowflake · Databricks · Airflow · Kafka · AI agents**
 
 🌐 [LinkedIn](https://linkedin.com/in/zhen-xing) · 📍 Paris
 
